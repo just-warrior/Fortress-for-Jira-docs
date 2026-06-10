@@ -10,7 +10,6 @@ Jira Fortress adds a lightweight turn-based fortress battle to Jira issues. Jira
 - [Privacy Policy](PRIVACY_POLICY)
 - [End User License Agreement](EULA)
 - [Support](SUPPORT)
-- [Marketplace Description](MARKETPLACE_DESCRIPTION)
 
 ## Support
 
