@@ -154,4 +154,4 @@ If an administrator removes a project key from the allowlist, further battle act
 For support or security questions, contact:
 
 **JMC Labs**  
-Email: **wjdals9058@gmail.com**
+Email: **support@jmclabs.dev**
