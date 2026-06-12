@@ -5,7 +5,7 @@
 For support, bug reports, installation questions, Marketplace review questions, privacy questions, or security issues related to **Jira Fortress for Jira**, contact:
 
 **JMC Labs**  
-Email: **wjdals9058@gmail.com**
+Email: **support@jmclabs.dev**
 
 ## What to Include
 
