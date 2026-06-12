@@ -16,4 +16,4 @@ Jira Fortress adds a lightweight turn-based fortress battle to Jira issues. Jira
 For support or security questions, contact:
 
 **JMC Labs**  
-Email: **wjdals9058@gmail.com**
+Email: **support@jmclabs.dev**
