@@ -35,7 +35,7 @@ Jira administrators are responsible for configuring the project allowlist and en
 
 ## 6. Support
 
-Supported versions of the App receive reasonable support through the support channel listed on the Atlassian Marketplace listing. Security issues may be reported to **wjdals9058@gmail.com** unless a newer security contact is published on the listing.
+Supported versions of the App receive reasonable support through the support channel listed on the Atlassian Marketplace listing. Security issues may be reported to **support@jmclabs.dev** unless a newer security contact is published on the listing.
 
 ## 7. Fees
 
@@ -64,4 +64,4 @@ Unless the applicable Atlassian Marketplace or Bonterms agreement states otherwi
 For questions about this Agreement, contact:
 
 **JMC Labs**  
-Email: **wjdals9058@gmail.com**
+Email: **support@jmclabs.dev**
