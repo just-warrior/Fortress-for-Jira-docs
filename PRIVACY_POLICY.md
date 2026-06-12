@@ -84,4 +84,4 @@ We may update this Privacy Policy from time to time. The effective date above wi
 For privacy or security questions, contact:
 
 **JMC Labs**  
-Email: **wjdals9058@gmail.com**
+Email: **support@jmclabs.dev**
